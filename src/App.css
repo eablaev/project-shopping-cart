@@ -1,0 +1,22 @@
+#root {
+    --foregroundColor: #000000 ;
+    --backgroundColor:#d3d1d1;
+    --accentColor:#B87333;
+    --accentColorTwo: #ffffff;
+   
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    
+    
+    text-align: center;
+    position: relative;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
